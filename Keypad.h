@@ -1,5 +1,5 @@
 /*
-  LCDKeypad.h
+  Keypad.h
 */
 
 // ensure this library description is only included once

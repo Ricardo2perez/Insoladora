@@ -189,7 +189,7 @@ void showPrincipal(){
 	lcd.print(TEXT_INICIO_1);
 	lcd.setCursor(0,1);
 	lcd.print(TEXT_INICIO_2);
-  //byte letra[8] = { B01110, B11011, B10001, B10001, B10001, B10001, B10001, B11111 };
+ 
  
 	digitalWrite(BUZZER_PIN,LOW);
    while ( (unsigned long)(millis() - timeRef) < 1970 )

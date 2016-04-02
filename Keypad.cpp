@@ -1,5 +1,5 @@
 /*
-  LCDKeypad.cpp
+  Keypad.cpp
 */
 #if ARDUINO >= 100
   #include "Arduino.h"
@@ -12,11 +12,7 @@
 
 
 #include "Keypad.h"
-/*
-LCDKeypad::LCDKeypad() : LiquidCrystal(8, 9, 4, 5, 6, 7)
-{
-}
-*/
+
 int Keypad::button()
 {
   static int NUM_KEYS=5;
