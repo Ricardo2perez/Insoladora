@@ -18,8 +18,12 @@ Se ha dividido el código en distintos ficheros:
 * [Keypad.h] - Se utiliza para leer el teclado que viene incorporado en la *Shield* de la pantalla *LCD*, convierte los valores leidos por la entrada analógica en numeros enteros.
 * [TimerOne.h] - Librería que usamos para el temporizador.
 * [Insoladora.ino] - Es el programa principal, está diseñado usando el concepto de estados y transiciones.
+* [Insoladora.pdf] - Diagrama de flujo del programa.
+![project](https://github.com/Ricardo2perez/Insoladora/blob/master/Insoladora.png)
 
-  
+
+
+
 
 
 
@@ -30,3 +34,4 @@ Se ha dividido el código en distintos ficheros:
 [Keypad.h]: <https://github.com/Ricardo2perez/Insoladora/blob/master/Keypad.h>
 [TimerOne.h]: <https://github.com/Ricardo2perez/Insoladora/blob/master/TimerOne.h>
 [Insoladora.ino]:<https://github.com/Ricardo2perez/Insoladora/blob/master/Insoladora.ino>
+[Insoladora.pdf]:<https://github.com/Ricardo2perez/Insoladora/blob/master/Insoladora.pdf>
