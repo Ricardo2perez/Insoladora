@@ -136,7 +136,7 @@ void loop()
 
 }
 
-
+//Transiciones entre estados
 void transition(uint8_t trigger)
 {
 	switch (state)
